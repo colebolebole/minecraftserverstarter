@@ -1,4 +1,4 @@
-Minecraft Server Starter does what the name says, starts up your minecraft server with a discord bot!
+Minecraft Server Starter does what the name says, starts up your minecraft server with a discord bot! (made by ower396#6099) i tweaked it a little bit!
 
 Usage
 
