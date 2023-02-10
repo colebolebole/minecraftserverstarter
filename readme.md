@@ -3,7 +3,6 @@ Minecraft Server Starter does what the name says, starts up your minecraft serve
 Usage
 
 
-
 open folder and put in token from the discord developer portal, make sure you have made a bot on there before continuing
 
 
