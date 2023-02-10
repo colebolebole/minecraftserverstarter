@@ -6,4 +6,6 @@
 6. then run startbot.bat
 7. invite bot to discord server of choice
 8. execute !start in any chat and server will start
-9. enjoy!
+9. if needed, replace start.bat on line 19, see ![image](https://user-images.githubusercontent.com/88512222/217984387-f1df9129-c1df-480e-9fe7-b32f09453aed.png)
+to your specifc start file name (exp run.bat)
+10. enjoy!
