@@ -6,7 +6,7 @@ Usage
 open folder and put in token from the discord developer portal, make sure you have made a bot on there before continuing
 
 
-open prerequisite installer, that installs required items to operate, make sure all required intents are enabled. see below image ![image](https://user-images.githubusercontent.com/88512222/217982162-999013dd-9292-4e3f-ab9c-4f06f883e6d7.png)
+open prerequisite installer, that installs required items to operate, make sure all required intents are enabled. see below image, once setup is down, put the bots individiual files in your server folder ![image](https://user-images.githubusercontent.com/88512222/217982162-999013dd-9292-4e3f-ab9c-4f06f883e6d7.png)
   then click on startbot, and done!
 
 
